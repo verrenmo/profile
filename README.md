@@ -19,12 +19,12 @@ I'm ***Verren Monica***, a passionate Data Scientist and Data Analyst who loves 
 ## 🎓 Education
 - **Hacktiv8 Indonesia**   
   - Full Time Data Scientist and Data Analyst
-  - Score: 
-  - Graduated: 
+  - Score: 95.60/100
+  - Graduated: Teacher's Award Predicate
 - **Universitas Surabaya** 
   - Bachelor of Industrial Engineering
   - GPA: 3.87/4.0  
-  - Graduated: Cum Laude
+  - Graduated: Cum Laude Predicate
 
 
 ## 📫 Connect with Me  
