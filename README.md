@@ -5,7 +5,7 @@
 I'm ***Verren Monica***, a passionate Data Scientist and Data Analyst who loves transforming raw data into impactful insights.  
 
 ## 🚀 About Me  
-- 🎓 Background in Industrial Engineering | Purchasing Specialist | Data Scientist & Analyst
+- 🎓 Background in Data Scientist & Analyst | Industrial Engineering | Purchasing Specialist 
 - 💻 Currently learning Machine Learning, Deep Learning, Data Engineering
 - 💡 I enjoy solving real-world problems and creating impactful solutions.  
 - 🌍 Based in Surabaya, Indonesia, but collaborating globally!  
